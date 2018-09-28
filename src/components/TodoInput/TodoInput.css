@@ -1,0 +1,8 @@
+.todoinput--form {
+  display: flex;
+}
+
+.todoinput--item {
+  display: flex;
+  flex-direction: column;
+}
